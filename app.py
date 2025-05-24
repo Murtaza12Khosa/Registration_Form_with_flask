@@ -121,3 +121,4 @@ def login():
 if __name__ == "__main__":
     initialize_database()  # Initialize the database before starting the app
     app.run(debug=True)
+print("Hello Pakistan ")
